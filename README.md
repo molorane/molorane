@@ -12,9 +12,7 @@ I am Mothusi a full-stack developer and content creator on programming. I focus 
     <img alt="youtube" src="" title="Subscribe to my YouTube channel" src="https:/custom-icon-badges.demolab.com/youtube/channel/subscribers" />
   </a>
   
-  <a href="https://www.youtube.com/channel/UC5BkBVEep9_jc54l9W_SW0g">
-    <img alt="youtube" src="" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/?logo=java-space-youtube" />
-  </a>
+  [![YouTube](https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1 "Subscribe to my YouTube channel")
 </p>
 
 ### Hi there 👋

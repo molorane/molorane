@@ -17,9 +17,9 @@ I am Mothusi a full-stack developer and content creator on programming. I focus 
 
 ## 👨‍💻 Technologies
 
-[![Java](https://custom-icon-badges.demolab.com/badge/-Java-47A248?style=for-the-badge&logo=java&logoColor=white)]
-[![Spring](https://custom-icon-badges.demolab.com/badge/-Spring-000000?style=for-the-badge&logo=spring&logoColor=white)]
-[![Flutter](https://custom-icon-badges.demolab.com/badge/-Flutter-218AAB?style=for-the-badge&logo=flutter&logoColor=white)
+![Java](https://custom-icon-badges.demolab.com/badge/-Java-47A248?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://custom-icon-badges.demolab.com/badge/-Spring-000000?style=for-the-badge&logo=spring&logoColor=white)
+![Flutter](https://custom-icon-badges.demolab.com/badge/-Flutter-218AAB?style=for-the-badge&logo=flutter&logoColor=white)
 
 <!--
 **molorane/molorane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

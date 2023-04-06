@@ -1,5 +1,5 @@
 
-# 💻 Mothusi Molorane
+# 👨‍💻 Mothusi Molorane
 
 **`Software Developer Java, Spring, Flutter`**
 

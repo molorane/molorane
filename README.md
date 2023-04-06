@@ -13,7 +13,7 @@ I am Mothusi a full-stack developer and content creator on programming. I focus 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=heart&logoColor=white)](https://www.linkedin.com/in/mothusi-molorane-88998130/ "LinkedIn profile")
  
 ## 🤩 JavaSpaceGithub
-[![JavaSpace Github]([https://custom-icon-badges.demolab.com/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=heart&logoColor=white](https://custom-icon-badges.demolab.com/badge/git-red.svg?logo=git&logoColor=fff))](https://github.com/java-space "JavaSpace GitHub")
+[![JavaSpace Github](https://custom-icon-badges.demolab.com/badge/git-red.svg?logo=git&logoColor=fff)](https://github.com/java-space "JavaSpace GitHub")
 
 ### Hi there 👋
 

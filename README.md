@@ -17,13 +17,13 @@ I am Mothusi a full-stack developer and content creator on programming. I focus 
 
 ## 👨‍💻 Technologies
 
-[Java](https://custom-icon-badges.demolab.com/badge/-Java-47A248?style=for-the-badge&logo=java&logoColor=white)
-[Spring](https://custom-icon-badges.demolab.com/badge/-Express-000000?style=for-the-badge&logo=spring&logoColor=white)
-[Flutter](https://custom-icon-badges.demolab.com/badge/-React-218AAB?style=for-the-badge&logo=glutter&logoColor=white)
-[Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-[Uses Shields.io](https://custom-icon-badges.demolab.com/badge/-Uses_Shields.io-000000?style=for-the-badge&logo=shieldsiobadge&logoColor=white)
-[Made with TypeScript](https://img.shields.io/badge/-Made_with_TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-[Powered by Heroku](https://img.shields.io/badge/-Powered_by_Heroku-6567a5?style=for-the-badge&logo=heroku&logoColor=white)
+[![Java](https://custom-icon-badges.demolab.com/badge/-Java-47A248?style=for-the-badge&logo=java&logoColor=white)]
+[![Spring](https://custom-icon-badges.demolab.com/badge/-Express-000000?style=for-the-badge&logo=spring&logoColor=white)]
+[![Flutter](https://custom-icon-badges.demolab.com/badge/-React-218AAB?style=for-the-badge&logo=glutter&logoColor=white)]
+[![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]
+[![Uses Shields.io](https://custom-icon-badges.demolab.com/badge/-Uses_Shields.io-000000?style=for-the-badge&logo=shieldsiobadge&logoColor=white)]
+[![Made with TypeScript](https://img.shields.io/badge/-Made_with_TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]
+[![Powered by Heroku](https://img.shields.io/badge/-Powered_by_Heroku-6567a5?style=for-the-badge&logo=heroku&logoColor=white)]
 
 <!--
 **molorane/molorane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

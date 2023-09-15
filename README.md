@@ -6,7 +6,7 @@
 My name is Mothusi a full-stack developer and content creator on programming. I create content on Java. My videos are not created the same way. I sometimes just create videos without any prior planning. You can see my videos starting with slide presentations followed by practical demos. I sometimes host other developers to have practical coding sessions. I publish all these to my YouTube channel 
 
 ## 👨‍💻 Technologies
-![Java](https://custom-icon-badges.demolab.com/badge/-Java-47A248?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://custom-icon-badges.demolab.com/badge/-Java-A27E47?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://custom-icon-badges.demolab.com/badge/-Spring-47A248?style=for-the-badge&logo=spring&logoColor=white)
 ![Flutter](https://custom-icon-badges.demolab.com/badge/-Flutter-218AAB?style=for-the-badge&logo=flutter&logoColor=white)
 

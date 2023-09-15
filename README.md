@@ -22,17 +22,4 @@ My name is Mothusi a full-stack developer and content creator on programming. I 
 
 | Name | Description | Image |
 | ---- | ----------- | ----- |
-| Bible Sos | Is a bible with the following languages: <br>Zulu, <br>Xhosa, <br>Afrikaans, <br>Sepedi, Sesotho, English | ![Bible Sos](sos.png)
-
-Features: 
-1. Select bible scripture. 
-2. Search scripture 
-3. Book mark chapters
-4. Like verses therefore adding them to favourites 
-5. History - logging what you read
-6. Viewing bookmarks, favourites and history
-7. Bookmarks and favourites can be deleted by swiping 
-9. Favourite verses are highlighted with preferred colours.
-10. Daily verse
-11. Lifela tsa sione
-12. Audio for hymns
+| Bible Sos | Is a bible and it has the following languages: <br>Zulu, <br>Xhosa, <br>Afrikaans, <br>Sepedi, Sesotho, English. <br>Features: <br>1. Select bible scripture. <br>2. Search scripture <br>3. Book mark chapters <br>4. Like verses therefore adding them to favourites <br>5. History - logging what you read <br>6. Viewing bookmarks, favourites and history <br>7. Bookmarks and favourites can be deleted by swiping <br>9. Favourite verses are highlighted with preferred colours. <br>10. Daily verse <br>11. Lifela tsa sione <br>12. Audio for hymns | ![Bible Sos](sos.png)

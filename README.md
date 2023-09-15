@@ -22,7 +22,7 @@ My name is Mothusi a full-stack developer and content creator on programming. I 
 
 | Name | Description | Image |
 | ---- | ----------- | ----- |
-| Bible Sos | Is a bible with the following languages: Zulu, Xhosa, Afrikaans, Sepedi, Sesotho, English | ![Bible Sos](sos.png)
+| Bible Sos | Is a bible with the following languages: <br>Zulu, <br>Xhosa, <br>Afrikaans, <br>Sepedi, Sesotho, English | ![Bible Sos](sos.png)
 
 Features: 
 1. Select bible scripture. 

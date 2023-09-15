@@ -20,6 +20,8 @@ My name is Mothusi a full-stack developer and content creator on programming. I 
 
 ## 👨‍💻 My Projects
 
+### 1 
+![Bible Sos](sos.png)
 <!--
 **molorane/molorane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

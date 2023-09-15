@@ -22,7 +22,9 @@ My name is Mothusi a full-stack developer and content creator on programming. I 
 
 | Name | Description | Image |
 | ---- | ----------- | ----- |
-| Bible Sos | Is a bible with the following languages: Zulu, Xhosa, Afrikaans, Sepedi, Sesotho, English Features: 
+| Bible Sos | Is a bible with the following languages: Zulu, Xhosa, Afrikaans, Sepedi, Sesotho, English | ![Bible Sos](sos.png)
+
+Features: 
 1. Select bible scripture. 
 2. Search scripture 
 3. Book mark chapters
@@ -33,7 +35,7 @@ My name is Mothusi a full-stack developer and content creator on programming. I 
 9. Favourite verses are highlighted with preferred colours.
 10. Daily verse
 12. Lifela tsa sione
-13. Audio for hymns ,  | ![Bible Sos](sos.png)
+13. Audio for hymns 
 
 <!--
 **molorane/molorane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

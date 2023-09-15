@@ -9,7 +9,7 @@ My name is Mothusi a full-stack developer and content creator on programming. I 
 
 [![YouTube](https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UC5BkBVEep9_jc54l9W_SW0g?sub_confirmation=1 "Subscribe to my YouTube channel")
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-red.svg?logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/mothusi-molorane-88998130/ "LinkedIn profile")
-[![JavaSpace Github](https://custom-icon-badges.demolab.com/badge/git-red.svg?logo=Git&logoColor=fff)](https://github.com/java-space "JavaSpace GitHub")
+[![JavaSpace Github](https://custom-icon-badges.demolab.com/badge/GitHub-red.svg?logo=Git&logoColor=fff)](https://github.com/java-space "JavaSpace GitHub")
 
 ## 👨‍💻 Technologies
 

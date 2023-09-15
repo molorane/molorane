@@ -34,8 +34,8 @@ Features:
 7. Bookmarks and favourites can be deleted by swiping 
 9. Favourite verses are highlighted with preferred colours.
 10. Daily verse
-12. Lifela tsa sione
-13. Audio for hymns 
+11. Lifela tsa sione
+12. Audio for hymns 
 
 <!--
 **molorane/molorane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

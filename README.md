@@ -7,7 +7,7 @@ My name is Mothusi a full-stack developer and content creator on programming. I 
 
 ## 👨‍💻 Technologies
 ![Java](https://custom-icon-badges.demolab.com/badge/-Java-47A248?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://custom-icon-badges.demolab.com/badge/-Spring-000000?style=for-the-badge&logo=spring&logoColor=white)
+![Spring](https://custom-icon-badges.demolab.com/badge/-Spring-47A248?style=for-the-badge&logo=spring&logoColor=white)
 ![Flutter](https://custom-icon-badges.demolab.com/badge/-Flutter-218AAB?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## 🤩 Support Me on YouTube. Your subscription is highly appreciated. I am constantly uploading content

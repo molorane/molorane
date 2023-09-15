@@ -3,7 +3,7 @@
 
 **`Software Developer Java, Spring, Flutter`**
 
-My name is Mothusi a full-stack developer and content creator on programming. I create content on Java technology. My video contents are not created the same way. I sometimes just create videos without any prior planning. You can see my videos starting with slide presentations followed by practical demos. I sometimes host other developers to have practical coding sessions. I publish all these on my YouTube channel "[JavaSpace]" 
+My name is Mothusi a full-stack developer and content creator on programming. I create content on Java. My videos are not created the same way. I sometimes just create videos without any prior planning. You can see my videos starting with slide presentations followed by practical demos. I sometimes host other developers to have practical coding sessions. I publish all these to my YouTube channel 
 
 ## 🤩 Support YouTube. I am constantly uploading content
 

@@ -3,7 +3,7 @@
 
 **`Software Engineer`**
 
-My name is Mothusi a full-stack developer and content creator on programming. I create content on Java. My videos are not created the same way. I sometimes just create videos without any prior planning. You can see my videos starting with slide presentations followed by practical demos. I sometimes host other developers to have practical coding sessions. I publish all these to my YouTube channel 
+I am a full-stack developer and content creator on programming. I create content on Java. My videos are not created the same way. I sometimes just create videos without any prior planning. You can see my videos starting with slide presentations followed by practical demos. I sometimes host other developers to have practical coding sessions. I publish all these to my YouTube channel 
 
 ## 👨‍💻 Technologies
 ![Java](https://custom-icon-badges.demolab.com/badge/-Java-A27E47?style=for-the-badge&logo=java&logoColor=white)
